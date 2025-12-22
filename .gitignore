@@ -1,0 +1,5 @@
+result
+result-*
+hardware-configuration.nix
+.DS_Store
+*.qcow2
