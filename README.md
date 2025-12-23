@@ -1,7 +1,3 @@
-Here is a clean, strict, engineering-focused README. It removes the "marketing fluff" and focuses entirely on the technical implementation, configuration schema, and architectural decisions.
-
-This style appeals directly to Senior Engineers and Hiring Managers who want to see that you understand the underlying systems.
-
 ***
 
 ```markdown
