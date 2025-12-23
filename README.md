@@ -1,6 +1,5 @@
 ***
 
-```markdown
 # NixOS FreeSWITCH Module
 
 This repository contains a NixOS Flake for deploying a container-ready, fully declarative build of FreeSWITCH (v1.10+).
@@ -11,7 +10,7 @@ It abstracts the complex XML configuration of FreeSWITCH into native Nix syntax,
 
 Add this repository to your `flake.nix` inputs:
 
-```nix
+```
 {
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
